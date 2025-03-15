@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "titulo": "Taza de ceramica",
+        "descripcion": "Taza de ceramica personalizada con el diseño que quieras",
+        "categoria": "personalizados",
+        "imagen": "/productosImg/taza-ceramica.jpg",
+        "precio": 14000,
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "titulo": "Curriculum Vitae",
+        "descripcion": "Diseño de Curriculum Vitae digital",
+        "categoria": "servicios",
+        "imagen": "/productosImg/curriculum.png",
+        "precio": 3000,
+        "stock": 100
+    }
+]
